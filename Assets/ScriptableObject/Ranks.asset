@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9c065fe909df834c9d1f5c3a0290185, type: 3}
+  m_Name: Ranks
+  m_EditorClassIdentifier: 
+  <AchievementIcon>k__BackingField: {fileID: 21300000, guid: ecb1889fcd79d4365999c3f814fa913f, type: 3}
+  <AwardIcon>k__BackingField: {fileID: 21300000, guid: f434a60f1f85c47e085d09cab598d63d, type: 3}
+  <AmountOfReward>k__BackingField: 5
+  <Title>k__BackingField: Climb the ranks
+  <Description>k__BackingField: Play 5 times
+  <Type>k__BackingField: 1
